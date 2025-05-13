@@ -1,2 +1,1 @@
-# prac-bootstrap
-A small project to practice bootstrap
+Inicio del proyecto de práctica de bootstrap
